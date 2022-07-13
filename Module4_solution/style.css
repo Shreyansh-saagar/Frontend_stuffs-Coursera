@@ -1,0 +1,35 @@
+*{
+    background-color:#876445;
+}
+h1{
+    color: #F4DFBA;
+    text-align: center;
+}
+h2{
+    text-align: center;
+    color: #F4DFBA;
+    margin-top: 50px;
+    margin-bottom: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size:xx-large;
+    font-weight: 700;
+    
+}
+h3{
+    
+        text-align: center;
+        color: #F4DFBA;
+        margin: 50px 10px;
+        font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        font-size:larger;
+        font-weight: 700;
+        text-decoration: underline;
+    
+}
+p{  
+    text-align: center;
+    color: #F4DFBA;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    font-weight: 600;
+}
